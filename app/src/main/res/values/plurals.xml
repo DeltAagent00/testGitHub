@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="count_posts">
+        <item quantity="one">%d post</item>
+        <item quantity="few">%d posts</item>
+        <item quantity="many">%d posts</item>
+        <item quantity="other">%d posts</item>
+    </plurals>
+</resources>
